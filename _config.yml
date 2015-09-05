@@ -4,7 +4,8 @@ title: SugarScape
 locale: en_US
 description: A space for simulation, evoluation and intelligence.
 logo: site-logo.png
-url: //chenye.github.io/so-simple-theme
+# url: //chenye.github.io/so-simple-theme
+url: localhost:4000
 
 # Jekyll configuration
 
@@ -36,7 +37,7 @@ owner:
   name: Ye Chen
   avatar: michael-rose-photo.jpg
   email: chenye84@gmail.com
-  disqus-shortname: sosimpletheme
+  disqus-shortname: chenye
   twitter:
   facebook:
   github: chenye
