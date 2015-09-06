@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ACS4Fun: An Ant Colony System for General Function Optimization"
+excerpt: "This code solves function minimization problems. It was first wrote in 2003 with some minor updates."
 date: 2015-09-05 11:46:00
 categories: projects
 tags: [projects, ant-colony-optimization, optimization]
