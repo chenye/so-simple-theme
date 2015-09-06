@@ -4,7 +4,7 @@ title: About
 excerpt: "The simulation and evoluation of intelligence behaviors..."
 modified: 2015-09-03T19:44:38.564948-04:00
 image:
-  feature: site-logo.png
+  feature: about-white-sugar-cubes.jpg
   credit: Ye Chen
   creditlink: http://www.sugarscape.net
 ---
