@@ -3,7 +3,10 @@ layout: page
 title: About
 excerpt: "The simulation and evoluation of intelligence behaviors..."
 modified: 2015-09-03T19:44:38.564948-04:00
-
+image:
+  feature: site-logo.png
+  credit: Ye Chen
+  creditlink: http://www.sugarscape.net
 ---
 
 This is a website that blends a blog and a portfolio. It will contain contents related to multi-agent simulation, artificial intelligence, as well as many other interesting topics in computer science and engineering.
