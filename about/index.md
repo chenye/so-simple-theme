@@ -1,26 +1,15 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About
+excerpt: "The simulation and evoluation of intelligence behaviors..."
+modified: 2015-09-03T19:44:38.564948-04:00
+
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+This is a website that blends a blog and a portfolio. It will contain contents related to multi-agent simulation, artificial intelligence, as well as many other interesting topics in computer science and engineering.
 
-## So Simple Theme is all about:
+About Me
+I am a Quantitative Researcher at the Climate Corporation. My research interests include machine learning, data mining and optimization algorithms. You can find my publications in my [Google Scholar profile](https://scholar.google.com/citations?user=kHeI720AAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/pub/ye-chen/56/9b8/606).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Besides research, I like programming a lot. I started "programming" using a language called LOGO 20 years ago. After that, I programmed in Basic/Visual Basic, Pascal/Delphi, C/C++, assembly language (for both x86 and MCU), VHDL, Verilog, Matlab, and most recently R. I believe my next language will be Python...
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*

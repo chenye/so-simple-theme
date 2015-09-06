@@ -4,9 +4,9 @@ title: SugarScape
 locale: en_US
 description: A space for simulation, evoluation and intelligence.
 logo: site-logo.png
-url: //chenye.github.io/so-simple-theme
+# url: //chenye.github.io/so-simple-theme
 # url: localhost:4000
-# url:
+url: www.sugarscape.net
 
 # Jekyll configuration
 
